@@ -1,0 +1,39 @@
+.bucket {
+  /* margin: 26px 90px; */
+  border: none;
+  /* box-shadow: 1px 1px 1px rgb(37, 22, 22); */
+  min-height: 500px;
+  min-width: 260px;
+  margin-left: 90px;
+  margin-top: 20px;
+
+  background-color: whitesmoke;
+  /* overflow-x: scroll; */
+}
+
+.bucket__container {
+  display: flex;
+  justify-content: space-between;
+  background-color: yellowgreen;
+}
+
+.bucket__title {
+  color: white;
+  padding: 7px;
+  font-weight: 800;
+}
+
+.card__container {
+  margin-top: 20px;
+  margin-left: 10px;
+}
+
+.bucket__icon {
+  cursor: pointer;
+  padding: 7px;
+  color: white;
+}
+
+.bucket__icon:hover{
+    color: black;
+}

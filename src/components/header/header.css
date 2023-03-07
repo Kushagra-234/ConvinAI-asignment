@@ -1,0 +1,13 @@
+.header__heading {
+  padding-top: 13px;
+  padding-bottom: 6px;
+  color: blueviolet;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-bottom: 1px solid transparent;
+  box-shadow: 1px 1px 1px rgb(212, 209, 209);
+}
