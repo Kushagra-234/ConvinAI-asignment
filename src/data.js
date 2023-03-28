@@ -1,9 +1,11 @@
 export const data=[
+    
     {
         id:1,
         name:"card1"
 
    },
+
     {
         id:2,
         name:"card2"

@@ -37,3 +37,15 @@
 .bucket__icon:hover{
     color: black;
 }
+
+.bucket_input{
+  margin-top: 10px;
+  height: 27px;
+  margin-left: 20px;
+}
+
+
+
+.btn_bucket{
+  height: 50px;
+}
